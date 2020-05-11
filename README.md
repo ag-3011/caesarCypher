@@ -1,2 +1,2 @@
 # caesarCypher
-Caesar Cipher
+Caesar Cipher, with ability to send message using gmail.
